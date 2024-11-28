@@ -1,2 +1,2 @@
 npm i , then
- node node index.js
+ run command -  node index.js
